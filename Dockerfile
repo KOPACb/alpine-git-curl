@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:latest
 MAINTAINER KOPACb <KOPACb@gmail.com>
 
 
